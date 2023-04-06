@@ -1,0 +1,32 @@
+img {
+  width: 450px;
+  height: 500px;
+}
+.main {
+  display: flex;
+}
+.nike {
+  padding: 20px;
+  border: 1px solid black;
+}
+i {
+  color: orange;
+}
+h3 {
+  color: brown;
+}
+p {
+  width: 230px;
+}
+.discount {
+  color: brown;
+}
+#arrow {
+  color: brown;
+}
+#discount {
+  color: brown;
+}
+#solid {
+  color: brown;
+}

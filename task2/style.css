@@ -1,0 +1,38 @@
+.main {
+  background-color: coral;
+  width: 1000px;
+  height: 800px;
+  margin: 360px auto;
+}
+.parent {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 400px;
+}
+.child1 {
+  color: white;
+  background-color: magenta;
+  text-align: center;
+  border: 6px solid white;
+  width: 200px;
+  height: 150px;
+}
+.child2 {
+  color: white;
+  background-color: magenta;
+  text-align: center;
+  border: 6px solid darkmagenta;
+  width: 200px;
+  height: 150px;
+  position: relative;
+  top: 400px;
+}
+.child3 {
+  color: white;
+
+  background-color: magenta;
+  text-align: center;
+  border: 6px solid white;
+  width: 200px;
+  height: 150px;
+}

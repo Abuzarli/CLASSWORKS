@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+}
+nav {
+  display: flex;
+  background-color: black;
+  height: 50px;
+  position: fixed;
+  width: 100%;
+}
+nav div {
+  padding: 20px;
+  color: white;
+}
+.text {
+  padding: 60px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+}

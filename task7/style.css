@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+}
+h1 {
+  margin-bottom: 20px;
+}
+nav {
+  background-color: black;
+  height: 100%;
+  position: fixed;
+  /* width: 100%; */
+}
+nav div {
+  padding: 20px;
+  color: white;
+}
+.text {
+  padding: 60px;
+  padding-left: 140px;
+}
+.main {
+  display: flex;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+}
